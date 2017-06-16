@@ -1,0 +1,19 @@
+h2 {font-family: 'Indie Flower', cursive;
+color: #105ad1;
+}
+h3{font-family: 'Indie Flower', cursive;
+color: #105ad1;
+}
+p{color: #105ad1;
+}
+li {color: #105ad1;
+}
+a{color: #105ad1;
+}
+body{
+	background-image: url('../bilder/raido music.jpg');
+	background-size: cover; 
+	background-repeat: no-repeat;
+	min-height: 100vh;
+	position: relative;
+}
